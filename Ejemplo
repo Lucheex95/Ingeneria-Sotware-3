@@ -1,0 +1,8 @@
+function addten(x){
+return x+10;
+}
+  function divideBythree(y){
+  return y/3;
+  }
+    var result=addTen(2);
+    
